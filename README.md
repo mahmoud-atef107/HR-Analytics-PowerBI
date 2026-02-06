@@ -64,13 +64,13 @@ The dashboard supports HR teams and decision-makers with data-driven insights to
 ## Dashboard Preview
 
 ### Overview
-![Overview](Screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Attrition
-![Attrition](Screenshots/attrition.png)
+![Attrition](screenshots/Attrition.png)
 
 ### Performance and Salaries
-![Performance](Screenshots/performance.png)
+![Performance](screenshots/Performance.png)
 
 ### Tooltip Analysis
-![Tooltip](Screenshots/tooltip.png)
+![Tooltip](screenshots/Tooltip.png)
